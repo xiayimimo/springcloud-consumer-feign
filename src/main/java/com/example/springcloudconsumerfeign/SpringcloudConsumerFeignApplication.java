@@ -16,6 +16,7 @@ public class SpringcloudConsumerFeignApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringcloudConsumerFeignApplication.class, args);
+		System.out.println("feign启动");
 	}
 
 }
