@@ -1,8 +1,8 @@
 server:
-  port: 8201
+  port: 8222
 logging:
   level:
-    com.yasaka.stock.feign.MFeignClient: debug
+    com.example.springcloudconsumerfeign.client.MFeignClient: debug
 feign:
   hystrix:
     enabled: true

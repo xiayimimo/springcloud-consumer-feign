@@ -6,6 +6,7 @@ import java.util.List;
 import org.springframework.stereotype.Component;
 
 import springcloudproviderconfig.entity.User;
+
 /**
  * 断路器回调
  * @author admin

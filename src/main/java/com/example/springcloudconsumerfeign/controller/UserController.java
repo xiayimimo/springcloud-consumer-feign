@@ -19,6 +19,7 @@ import io.swagger.annotations.ApiParam;
 import io.swagger.annotations.ApiResponse;
 import springcloudproviderconfig.entity.User;
 
+
 @Api("springcloud consumer user 控制器")
 @RequestMapping("user")
 @RestController
